@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/torazemi/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/torazemi/static/js/main.fd4758fc.chunk.js",
+    "main.js.map": "/torazemi/static/js/main.fd4758fc.chunk.js.map",
+    "runtime-main.js": "/torazemi/static/js/runtime-main.02ac831c.js",
+    "runtime-main.js.map": "/torazemi/static/js/runtime-main.02ac831c.js.map",
+    "static/js/2.29a22547.chunk.js": "/torazemi/static/js/2.29a22547.chunk.js",
+    "static/js/2.29a22547.chunk.js.map": "/torazemi/static/js/2.29a22547.chunk.js.map",
+    "static/js/3.38658684.chunk.js": "/torazemi/static/js/3.38658684.chunk.js",
+    "static/js/3.38658684.chunk.js.map": "/torazemi/static/js/3.38658684.chunk.js.map",
+    "index.html": "/torazemi/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/torazemi/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.29a22547.chunk.js.LICENSE.txt": "/torazemi/static/js/2.29a22547.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ac831c.js",
+    "static/js/2.29a22547.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fd4758fc.chunk.js"
+  ]
+}
