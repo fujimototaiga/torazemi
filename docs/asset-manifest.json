@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/torazemi/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/torazemi/static/js/main.fd4758fc.chunk.js",
-    "main.js.map": "/torazemi/static/js/main.fd4758fc.chunk.js.map",
+    "main.js": "/torazemi/static/js/main.b8ad8b45.chunk.js",
+    "main.js.map": "/torazemi/static/js/main.b8ad8b45.chunk.js.map",
     "runtime-main.js": "/torazemi/static/js/runtime-main.02ac831c.js",
     "runtime-main.js.map": "/torazemi/static/js/runtime-main.02ac831c.js.map",
     "static/js/2.29a22547.chunk.js": "/torazemi/static/js/2.29a22547.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.02ac831c.js",
     "static/js/2.29a22547.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.fd4758fc.chunk.js"
+    "static/js/main.b8ad8b45.chunk.js"
   ]
 }
