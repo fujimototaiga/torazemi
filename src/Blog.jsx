@@ -31,7 +31,7 @@ const Blog = () => {
   return (
     <>
       <Article
-        title={"記事のタイトルだよ"}
+        title={"記事のタイトル"}
         // count={this.state.count}
       />
       <FooBar.Foo />
